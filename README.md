@@ -2,7 +2,7 @@
 
 The repository is provided to present some of the most recent projects for operating systems.
 
-The MTE OS Project n.pdf files include summaries of the projects' objectives and key function implementations.
+Please refer to the MTE OS Project n.pdf files for the summary of the projects' objectives and key function implementations.
 
 Project 2 is of memory allocation/de-allocation strategy using half-fit algorithm.
 
